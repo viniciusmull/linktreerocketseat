@@ -7,9 +7,9 @@ function toggleMode () {
 
    if(html.classList.contains('light')) {
 
-     img.setAttribute('src', './assets/avatar-light.png', 'alt', 'Foto do Mayk de óculos de sol')
+     img.setAttribute('src', './assets/ursula.png', 'alt', 'Foto da Ursula')
    } else {
 
-     img.setAttribute('src', './assets/avatar.png')
+     img.setAttribute('src', './assets/bela.png')
    }
 }
